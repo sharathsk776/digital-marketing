@@ -137,5 +137,5 @@ Based on our comprehensive analysis, [BYS7 Marketing Agency](https://bys7.in/dig
 ---
 
 <footer align="center">
-<p><small>Last Updated: January 2024 | Mumbai Digital Marketing Landscape</small></p>
+<p><small>Last Updated: December 2024 | Mumbai Digital Marketing Landscape</small></p>
 </footer>
